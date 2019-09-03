@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/javatechs/BowlerStudioConfiguration.git": [
-      "javatechs/BowlerStudioConfiguration",
-      "1567542232561"
-    ],
     "https://github.com/javatechs/greycat.git": [
       "javatechs/greycat",
       "1566760482800"
@@ -12,7 +8,7 @@
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
-    "fontsize": 14.0,
+    "fontsize": 12.0,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
