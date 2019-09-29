@@ -14,10 +14,6 @@
     "https://github.com/javatechs/greycat.git:MediumKat.xml": [
       "https://github.com/javatechs/greycat.git",
       "MediumKat.xml"
-    ],
-    "https://github.com/javatechs/greycat.git:launch.groovy": [
-      "https://github.com/javatechs/greycat.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
