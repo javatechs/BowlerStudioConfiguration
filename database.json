@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/a3c57bf6e54b60d1f4d773c9c7c14b52.git": [
+      "GIST: LoadGameController.groovy",
+      "1569879758115"
+    ],
     "https://github.com/javatechs/BowlerStudioConfiguration.git": [
       "javatechs/BowlerStudioConfiguration",
       "1567542232561"
@@ -11,6 +15,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/a3c57bf6e54b60d1f4d773c9c7c14b52.git:LoadGameController.groovy": [
+      "https://gist.github.com/a3c57bf6e54b60d1f4d773c9c7c14b52.git",
+      "LoadGameController.groovy"
+    ],
     "https://github.com/javatechs/greycat.git:MediumKat.xml": [
       "https://github.com/javatechs/greycat.git",
       "MediumKat.xml"
