@@ -26,10 +26,6 @@
     "https://github.com/madhephaestusdemo/greycat.git:MediumKat.xml": [
       "https://github.com/madhephaestusdemo/greycat.git",
       "MediumKat.xml"
-    ],
-    "https://github.com/madhephaestusdemo/greycat.git:launch.groovy": [
-      "https://github.com/madhephaestusdemo/greycat.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
