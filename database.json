@@ -23,9 +23,9 @@
       "none",
       "/home/fdou/Documents/workspace/Bowler/testScript.groovy"
     ],
-    "https://github.com/madhephaestusdemo/greycat.git:MediumKat.xml": [
+    "https://github.com/madhephaestusdemo/greycat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/greycat.git",
-      "MediumKat.xml"
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
