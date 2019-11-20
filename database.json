@@ -31,8 +31,8 @@
       "none",
       "/home/fdou/Documents/workspace/Bowler/testScript.groovy"
     ],
-    "https://github.com/madhephaestusdemo/greycat.git:launch.groovy": [
-      "https://github.com/madhephaestusdemo/greycat.git",
+    "https://github.com/javatechs/greycat.git:launch.groovy": [
+      "https://github.com/javatechs/greycat.git",
       "launch.groovy"
     ]
   },
