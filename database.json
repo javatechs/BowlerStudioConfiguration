@@ -27,10 +27,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/d4545e921008331951a5bd74a613c192.git:BNO055Visualizer.groovy": [
-      "https://gist.github.com/d4545e921008331951a5bd74a613c192.git",
-      "BNO055Visualizer.groovy"
-    ],
     "none:/home/fdou/Documents/workspace/Bowler/testScript.groovy": [
       "none",
       "/home/fdou/Documents/workspace/Bowler/testScript.groovy"
