@@ -26,7 +26,16 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/BNO055Visualizer.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/BNO055Visualizer.groovy"
+    ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/DialogExample.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/DialogExample.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.33.3",
     "fontsize": 14.0,
