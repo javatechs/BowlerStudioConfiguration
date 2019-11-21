@@ -26,19 +26,11 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "none:/home/fdou/Documents/workspace/Bowler/testScript.groovy": [
-      "none",
-      "/home/fdou/Documents/workspace/Bowler/testScript.groovy"
-    ],
-    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/DialogExample.groovy": [
-      "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/groovy/DialogExample.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
+    "firstVersion": "0.33.3",
     "fontsize": 14.0,
-    "skinBranch": "0.25.2",
+    "skinBranch": "0.33.3",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
