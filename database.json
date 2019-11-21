@@ -16,6 +16,10 @@
       "javatechs/greycat",
       "1566760482800"
     ],
+    "https://github.com/javatechs/BowlerDebug.git": [
+      "javatechs/BowlerDebug",
+      "1574364199562"
+    ],
     "https://gist.github.com/d4545e921008331951a5bd74a613c192.git": [
       "GIST: BNO055 Visualizer",
       "1573655746720"
@@ -30,10 +34,6 @@
     "none:/home/fdou/Documents/workspace/Bowler/testScript.groovy": [
       "none",
       "/home/fdou/Documents/workspace/Bowler/testScript.groovy"
-    ],
-    "https://github.com/javatechs/greycat.git:launch.groovy": [
-      "https://github.com/javatechs/greycat.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
