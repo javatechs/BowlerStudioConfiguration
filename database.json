@@ -22,7 +22,16 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/6c2454ada6192111f4d1d2ff36b8d521.git:LoadGameController.groovy": [
+      "https://gist.github.com/6c2454ada6192111f4d1d2ff36b8d521.git",
+      "LoadGameController.groovy"
+    ],
+    "https://github.com/javatechs/greycat.git:launch.groovy": [
+      "https://github.com/javatechs/greycat.git",
+      "launch.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.33.3",
     "fontsize": 14.0,
