@@ -16,6 +16,10 @@
       "javatechs/greycat",
       "1566760482800"
     ],
+    "https://gist.github.com/6c2454ada6192111f4d1d2ff36b8d521.git": [
+      "GIST: LoadGameController.groovy",
+      "1574703208320"
+    ],
     "https://github.com/javatechs/BowlerDebug.git": [
       "javatechs/BowlerDebug",
       "1574364199562"
@@ -23,6 +27,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/6c2454ada6192111f4d1d2ff36b8d521.git:LoadGameController.groovy": [
+      "https://gist.github.com/6c2454ada6192111f4d1d2ff36b8d521.git",
+      "LoadGameController.groovy"
+    ],
     "https://github.com/javatechs/greycat.git:launch.groovy": [
       "https://github.com/javatechs/greycat.git",
       "launch.groovy"
