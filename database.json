@@ -31,6 +31,10 @@
       "https://gist.github.com/6c2454ada6192111f4d1d2ff36b8d521.git",
       "LoadGameController.groovy"
     ],
+    "https://gist.github.com/a3c57bf6e54b60d1f4d773c9c7c14b52.git:LoadGameController.groovy": [
+      "https://gist.github.com/a3c57bf6e54b60d1f4d773c9c7c14b52.git",
+      "LoadGameController.groovy"
+    ],
     "https://github.com/javatechs/greycat.git:launch.groovy": [
       "https://github.com/javatechs/greycat.git",
       "launch.groovy"
