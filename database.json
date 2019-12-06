@@ -30,6 +30,10 @@
     "https://github.com/madhephaestusdemo/greycat.git:launch.groovy": [
       "https://github.com/madhephaestusdemo/greycat.git",
       "launch.groovy"
+    ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/walkcycleTest.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/walkcycleTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
