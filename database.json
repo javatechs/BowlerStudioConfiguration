@@ -23,10 +23,6 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/MoveLink.groovy": [
-      "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/groovy/MoveLink.groovy"
-    ],
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/walkingTest.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/walkingTest.groovy"
@@ -34,6 +30,10 @@
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/ListDevices.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/ListDevices.groovy"
+    ],
+    "https://github.com/javatechs/greycat.git:launch.groovy": [
+      "https://github.com/javatechs/greycat.git",
+      "launch.groovy"
     ],
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/file.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
@@ -54,7 +54,7 @@
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.33.3",
-    "fontsize": 12.0,
+    "fontsize": 16.0,
     "skinBranch": "0.33.3",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
