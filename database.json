@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/javatechs/greycat.git": [
+      "javatechs/greycat",
+      "1575753016882"
+    ],
     "https://github.com/javatechs/BowlerDebug.git": [
       "javatechs/BowlerDebug",
       "1575752487670"
