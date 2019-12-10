@@ -14,9 +14,21 @@
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/movement.groovy"
     ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/ListDevices.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/ListDevices.groovy"
+    ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/file.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/file.groovy"
+    ],
     "https://github.com/javatechs/greycat.git:launch.groovy": [
       "https://github.com/javatechs/greycat.git",
       "launch.groovy"
+    ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/wcT1.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/wcT1.groovy"
     ]
   },
   "BowlerStudioConfigs": {
