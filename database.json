@@ -10,9 +10,9 @@
     ]
   },
   "studio-open-git": {
-    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/movement.groovy": [
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/genericClient.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/groovy/movement.groovy"
+      "src/main/groovy/genericClient.groovy"
     ],
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/ListDevices.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
