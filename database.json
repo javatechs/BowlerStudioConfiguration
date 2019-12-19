@@ -23,10 +23,6 @@
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/genericClient.groovy"
     ],
-    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/BowlerSpeaks.groovy": [
-      "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/groovy/BowlerSpeaks.groovy"
-    ],
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/ListDevices.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/ListDevices.groovy"
