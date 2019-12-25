@@ -15,13 +15,13 @@
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/LoadGameController.groovy"
     ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/movement.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/movement.groovy"
+    ],
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/genericClient.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/genericClient.groovy"
-    ],
-    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/LoadGameController2.groovy": [
-      "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/groovy/LoadGameController2.groovy"
     ],
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/Speak2.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
