@@ -14,10 +14,6 @@
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/LoadGameController2.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/LoadGameController2.groovy"
-    ],
-    "https://github.com/javatechs/greycat.git:launch.groovy": [
-      "https://github.com/javatechs/greycat.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
