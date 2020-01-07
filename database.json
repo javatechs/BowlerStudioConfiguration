@@ -26,8 +26,8 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 18.0,
-    "skinBranch": "1.0.7",
+    "skinBranch": "1.1.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.0.7"
+    "currentVersion": "1.1.0"
   }
 }
