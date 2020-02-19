@@ -22,10 +22,6 @@
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/LoadGameController2.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/LoadGameController2.groovy"
-    ],
-    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/BNO055Visualizer.groovy": [
-      "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/groovy/BNO055Visualizer.groovy"
     ]
   },
   "BowlerStudioConfigs": {
