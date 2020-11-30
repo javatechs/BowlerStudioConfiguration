@@ -26,6 +26,10 @@
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/BNO055Visualizer.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/BNO055Visualizer.groovy"
+    ],
+    "https://github.com/javatechs/greycat.git:MediumKat.xml": [
+      "https://github.com/javatechs/greycat.git",
+      "MediumKat.xml"
     ]
   },
   "BowlerStudioConfigs": {
