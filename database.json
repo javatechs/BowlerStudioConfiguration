@@ -26,6 +26,10 @@
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/BNO055Visualizer.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/BNO055Visualizer.groovy"
+    ],
+    "https://gist.github.com/3b3164067d463d39b8f87a3148504aba.git:gameController.groovy": [
+      "https://gist.github.com/3b3164067d463d39b8f87a3148504aba.git",
+      "gameController.groovy"
     ]
   },
   "BowlerStudioConfigs": {
