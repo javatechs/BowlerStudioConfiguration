@@ -23,6 +23,10 @@
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/loadRobot.groovy"
     ],
+    "https://gist.github.com/a7d8fb94d48db719bfb26f12ac433a03.git:camera.groovy": [
+      "https://gist.github.com/a7d8fb94d48db719bfb26f12ac433a03.git",
+      "camera.groovy"
+    ],
     "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/LoadGameController2.groovy": [
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/LoadGameController2.groovy"
