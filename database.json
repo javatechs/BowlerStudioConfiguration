@@ -53,6 +53,7 @@
     "firstVersion": "1.0.5",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
+    "webControllerPort": "9000",
     "fontsize": 18.0,
     "skinBranch": "1.13.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
