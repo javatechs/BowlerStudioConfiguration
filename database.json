@@ -31,13 +31,13 @@
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/LoadGameController2.groovy"
     ],
-    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/BowlerSpeaks.groovy": [
-      "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/groovy/BowlerSpeaks.groovy"
-    ],
     "https://gist.github.com/070a19cffd088ecdf58ff9e813dbe08a.git:WalkTest.groovy": [
       "https://gist.github.com/070a19cffd088ecdf58ff9e813dbe08a.git",
       "WalkTest.groovy"
+    ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/StartWebCtrl.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/StartWebCtrl.groovy"
     ],
     "https://github.com/javatechs/greycat.git:walking.groovy": [
       "https://github.com/javatechs/greycat.git",
