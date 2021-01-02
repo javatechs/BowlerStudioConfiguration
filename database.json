@@ -31,10 +31,6 @@
       "https://github.com/javatechs/BowlerDebug.git",
       "src/main/groovy/LoadGameController2.groovy"
     ],
-    "https://github.com/javatechs/BowlerDebug.git:src/main/python/x.py": [
-      "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/python/x.py"
-    ],
     "https://gist.github.com/070a19cffd088ecdf58ff9e813dbe08a.git:WalkTest.groovy": [
       "https://gist.github.com/070a19cffd088ecdf58ff9e813dbe08a.git",
       "WalkTest.groovy"
@@ -42,6 +38,10 @@
     "https://github.com/javatechs/greycat.git:walking.groovy": [
       "https://github.com/javatechs/greycat.git",
       "walking.groovy"
+    ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/aa.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/aa.groovy"
     ]
   },
   "BowlerStudioConfigs": {
