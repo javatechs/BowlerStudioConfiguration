@@ -38,6 +38,10 @@
     "https://github.com/javatechs/greycat.git:walking.groovy": [
       "https://github.com/javatechs/greycat.git",
       "walking.groovy"
+    ],
+    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/ROSExample.groovy": [
+      "https://github.com/javatechs/BowlerDebug.git",
+      "src/main/groovy/ROSExample.groovy"
     ]
   },
   "BowlerStudioConfigs": {
