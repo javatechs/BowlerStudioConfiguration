@@ -38,10 +38,6 @@
     "https://github.com/javatechs/greycat.git:walking.groovy": [
       "https://github.com/javatechs/greycat.git",
       "walking.groovy"
-    ],
-    "https://github.com/javatechs/BowlerDebug.git:src/main/groovy/aa.groovy": [
-      "https://github.com/javatechs/BowlerDebug.git",
-      "src/main/groovy/aa.groovy"
     ]
   },
   "BowlerStudioConfigs": {
